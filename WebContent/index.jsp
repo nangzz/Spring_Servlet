@@ -19,6 +19,7 @@
 	<br />
 	<ol>
 		<li><a href="userList.do?cmd=userList">사용자 리스트</a></li>
+		<li><a href="userList.do?cmd=userForm">사용자 등록</a></li>
 	</ol>
 </body>
 </html>
